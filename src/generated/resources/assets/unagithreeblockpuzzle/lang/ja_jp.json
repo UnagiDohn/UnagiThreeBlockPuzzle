@@ -1,0 +1,13 @@
+{
+  "block.unagithreeblockpuzzle.block_0": "ブロック0",
+  "block.unagithreeblockpuzzle.block_1": "ブロック1",
+  "block.unagithreeblockpuzzle.block_2": "ブロック2",
+  "block.unagithreeblockpuzzle.block_3": "ブロック3",
+  "block.unagithreeblockpuzzle.block_4": "ブロック4",
+  "item.unagithreeblockpuzzle.puzzle_put_key": "パズル設置キー",
+  "item.unagithreeblockpuzzle.move_left": "左移動",
+  "item.unagithreeblockpuzzle.move_right": "右移動",
+  "item.unagithreeblockpuzzle.rotation": "回転",
+  "item.unagithreeblockpuzzle.fall_down": "落下",
+  "block.unagithreeblockpuzzle.puzzle_control_manager": "パズルコントロールマネージャ"
+}

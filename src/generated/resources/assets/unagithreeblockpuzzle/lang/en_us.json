@@ -1,0 +1,13 @@
+{
+  "block.unagithreeblockpuzzle.block_0": "Block 0",
+  "block.unagithreeblockpuzzle.block_1": "Block 1",
+  "block.unagithreeblockpuzzle.block_2": "Block 2",
+  "block.unagithreeblockpuzzle.block_3": "Block 3",
+  "block.unagithreeblockpuzzle.block_4": "Block 4",
+  "item.unagithreeblockpuzzle.puzzle_put_key": "Puzzle Put Key",
+  "item.unagithreeblockpuzzle.move_left": "Move Left",
+  "item.unagithreeblockpuzzle.move_right": "Move Right",
+  "item.unagithreeblockpuzzle.rotation": "Rotation",
+  "item.unagithreeblockpuzzle.fall_down": "Fall Down",
+  "block.unagithreeblockpuzzle.puzzle_control_manager": "Puzzle Control Manager"
+}
